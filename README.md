@@ -16,7 +16,7 @@ A dark, glitchy, mysterious terminal experience for **Termux**.
 
 ```bash
 pkg update && pkg install git -y
-git clone https://github.com/YOUR-USERNAME/wraithgate.git
+git clone https://github.com/ghostentityvoid/wraithgate.git
 cd wraithgate
 bash install.sh
 ```
